@@ -1,0 +1,127 @@
+
+*** These modified files were found in JOE when it aborted on Thu Apr 29 19:39:00 2021
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/root/hashicat-azure/.git/MERGE_MSG
+* Startup Log *
+* Shell 1 *
+
+*** File '/root/hashicat-azure/.git/MERGE_MSG'
+Test commit - 
+Merge https://github.com/gnhord/hashicat-azure
+
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
+
+*** These modified files were found in JOE when it aborted on Thu Apr 29 19:39:00 2021
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/root/hashicat-azure/.git/MERGE_MSG
+* Startup Log *
+* Shell 1 *
+
+*** File '/root/hashicat-azure/.git/MERGE_MSG'
+Test commit - 
+Merge https://github.com/gnhord/hashicat-azure
+
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
+
+*** These modified files were found in JOE when it aborted on Thu Apr 29 19:39:00 2021
+*** JOE was aborted by UNIX signal 1
+
+*** File '* Shell 1 *'
+
+Type joehelp for editor shell commands
+
+[1m[32mroot@workstation[m:[1m[34m~/hashicat-azure[m# git status
+On branch master
+All conflicts fixed but you are still merging.
+  (use "git commit" to conclude merge)
+
+Changes to be committed:
+
+	[32mmodified:   files/deploy_app.sh
+
+[1m[32mroot@workstation[m:[1m[34m~/hashicat-azure[m# git commit -m "new edit"
+[master 14a162e] new edit
+[1m[32mroot@workstation[m:[1m[34m~/hashicat-azure[m# git push
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+[1m[32mroot@workstation[m:[1m[34m~/hashicat-azure[m# git push origin master
+Username for 'https://github.com': gnhord@gmail.com
+Password for 'https://gnhord@gmail.com@github.com': 
+Counting objects: 5, done.
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (5/5), 540 bytes | 270.00 KiB/s, done.
+Total 5 (delta 3), reused 0 (delta 0)
+remote: Resolving deltas: 100% (3/3), completed with 2 local objects.
+To https://github.com/gnhord/hashicat-azure
+   4240d3a..14a162e  master -> master
+[1m[32mroot@workstation[m:[1m[34m~/hashicat-azure[m# git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   main.tf
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[32mroot@workstation[m:[1m[34m~/hashicat-azure[m# git add .
+[1m[32mroot@workstation[m:[1m[34m~/hashicat-azure[m# git commit -m "Added 2nd Tag"
+[master c5a77c8] Added 2nd Tag
+ 1 file changed, 1 insertion(+)
+[1m[32mroot@workstation[m:[1m[34m~/hashicat-azure[m# git push origin master
+Username for 'https://github.com': gnhord@gmail.com
+Password for 'https://gnhord@gmail.com@github.com': 
+Counting objects: 3, done.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 309 bytes | 309.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/gnhord/hashicat-azure
+   14a162e..c5a77c8  master -> master
+[1m[32mroot@workstation[m:[1m[34m~/hashicat-azure[m# 
+*** File '(Unnamed)'
+/root/hashicat-azure/.git/MERGE_MSG
+* Startup Log *
+* Shell 1 *
+
+*** File '/root/hashicat-azure/.git/MERGE_MSG'
+Test commit - 
+Merge https://github.com/gnhord/hashicat-azure
+
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
